@@ -2,21 +2,21 @@
 
 منصات أعمال وخدمات رقمية تجمع إدارة العمليات والتواصل مع العملاء، مع حلول مستقلة بحسب احتياج النشاط.
 
-[الموقع الرسمي لمرقام](https://mirqam.sa/) · [دليل الحلول](https://mirqam.sa/solutions.html)
+[الموقع الرسمي لمرقام](https://mirqam.sa/) · [دليل الحلول](https://mirqam.sa/solutions)
 
 ## اختر المنصة المناسبة
 
-| المنصة | الاستخدام | الموقع الرسمي | الأدلة والمدونة |
-|---|---|---|---|
-| مرقام بوت | إشعارات واتساب وأتمتة التواصل وربط المتجر | [مرقام بوت](https://bot.mirqam.sa/) | [أدلة واتساب](https://bot.mirqam.sa/blog/) |
-| مرقام محاسبي | نقاط البيع وإدارة عمليات المطاعم والمنشآت والفروع | [مرقام محاسبي](https://pos.mirqam.sa/) | [أدلة نقاط البيع](https://pos.mirqam.sa/blog/index.html) |
-| مرقام تسويق | تنظيم الخدمات والطلبات التسويقية | [مرقام تسويق](https://marketing.mirqam.sa/) | [مدونة التسويق](https://marketing.mirqam.sa/blog/) |
-| مرقام ولاء | برامج ولاء العملاء والبطاقات والمكافآت | [مرقام ولاء](https://loyalty.mirqam.sa/) | [أدلة الولاء](https://loyalty.mirqam.sa/blog/) |
-| مرقام عقار | إدارة العقارات والعملاء ومتابعة النشاط العقاري | [مرقام عقار](https://aqar.mirqam.sa/) | [أدلة إدارة العقار](https://aqar.mirqam.sa/blog/) |
-| مرقام بريد | الحملات البريدية وتذكيرات السلات والاشتراك المؤكد وتنبيهات التوفر | [مرقام بريد](https://email.mirqam.sa/) | [المزايا والباقات](https://email.mirqam.sa/#features) |
-| مرقام درايفر | إدارة طلبات التوصيل بين المتاجر والمناديب وشركات التوصيل | [مرقام درايفر](https://driver.mirqam.sa/) | [أدلة التوصيل](https://driver.mirqam.sa/blog/) |
-| مرقام للتطوير | تطوير المواقع والتطبيقات وأنظمة الأعمال والتكاملات | [مرقام للتطوير](https://dev.mirqam.sa/) | [أدلة التطوير](https://dev.mirqam.sa/blog/) |
-| مرقام ثيمات | تصميم المتاجر والهويات والتخصيص؛ مجموعة الثيمات الجاهزة قيد التطوير | [مرقام ثيمات](https://themes.mirqam.sa/) | [أدلة تصميم المتاجر](https://themes.mirqam.sa/blog/) |
+| المنصة | الاستخدام | الموقع الرسمي | الأدلة والمدونة | دليل الاختيار |
+|---|---|---|---|---|
+| مرقام بوت | إشعارات واتساب وأتمتة التواصل وربط المتجر | [مرقام بوت](https://bot.mirqam.sa/) | [أدلة واتساب](https://bot.mirqam.sa/blog/) | [دليل المنصة](platforms/mirqam-bot.md) |
+| مرقام محاسبي | نقاط البيع وإدارة عمليات المطاعم والمنشآت والفروع | [مرقام محاسبي](https://pos.mirqam.sa/) | [أدلة نقاط البيع](https://pos.mirqam.sa/blog/index.html) | [دليل المنصة](platforms/mirqam-pos.md) |
+| مرقام تسويق | تنظيم الخدمات والطلبات التسويقية | [مرقام تسويق](https://marketing.mirqam.sa/) | [مدونة التسويق](https://marketing.mirqam.sa/blog/) | [دليل المنصة](platforms/mirqam-marketing.md) |
+| مرقام ولاء | برامج ولاء العملاء والبطاقات والمكافآت | [مرقام ولاء](https://loyalty.mirqam.sa/) | [أدلة الولاء](https://loyalty.mirqam.sa/blog/) | [دليل المنصة](platforms/mirqam-loyalty.md) |
+| مرقام عقار | إدارة العقارات والعملاء ومتابعة النشاط العقاري | [مرقام عقار](https://aqar.mirqam.sa/) | [أدلة إدارة العقار](https://aqar.mirqam.sa/blog/) | [دليل المنصة](platforms/mirqam-aqar.md) |
+| مرقام بريد | الحملات البريدية وتذكيرات السلات والاشتراك المؤكد وتنبيهات التوفر | [مرقام بريد](https://email.mirqam.sa/) | [أدلة البريد](https://email.mirqam.sa/blog/) | [دليل المنصة](platforms/mirqam-email.md) |
+| مرقام درايفر | إدارة طلبات التوصيل بين المتاجر والمناديب وشركات التوصيل | [مرقام درايفر](https://driver.mirqam.sa/) | [أدلة التوصيل](https://driver.mirqam.sa/blog/) | [دليل المنصة](platforms/mirqam-driver.md) |
+| مرقام للتطوير | تطوير المواقع والتطبيقات وأنظمة الأعمال والتكاملات | [مرقام للتطوير](https://dev.mirqam.sa/) | [أدلة التطوير](https://dev.mirqam.sa/blog/) | [دليل المنصة](platforms/mirqam-development.md) |
+| مرقام ثيمات | تصميم المتاجر والهويات والتخصيص؛ مجموعة الثيمات الجاهزة قيد التطوير | [مرقام ثيمات](https://themes.mirqam.sa/) | [أدلة تصميم المتاجر](https://themes.mirqam.sa/blog/) | [دليل المنصة](platforms/mirqam-themes.md) |
 
 ## قبل اختيار الخدمة
 
